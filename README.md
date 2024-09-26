@@ -2,19 +2,19 @@ Hikaye Adı: maceracı çocuklar ve samuray gizemi başlangıç
 
 Ana Karakterler:
 
-1. Ayşe: Grubun lideri, cesur ve stratejik. Zekasıyla zorlukları aşmada en büyük katkıyı sağlar.
+1. Johnny: Grubun lideri, cesur ve stratejik. Zekasıyla zorlukları aşmada en büyük katkıyı sağlar.
 
 
-2. Zeynep: Bilim ve doğaya meraklı, hızlı çözüm üretir ve bulmacaları çözmede uzmandır.
+2. Tim: Bilim ve doğaya meraklı, hızlı çözüm üretir ve bulmacaları çözmede uzmandır.
 
 
-3. Baran: Fiziksel olarak güçlü ve koruyucu. Grup için cesurca öne atılır ve en zor anlarda kahramanca davranır.
+3. Brain: Fiziksel olarak güçlü ve koruyucu. Grup için cesurca öne atılır ve en zor anlarda kahramanca davranır.
 
 
-4. Efe: Şakacı, enerji dolu, aynı zamanda çok beceriklidir. Moral kaynağı ve pratik çözümlerle zorlukları aşar.
+4. Maria: Şakacı, enerji dolu, aynı zamanda çok beceriklidir. Moral kaynağı ve pratik çözümlerle zorlukları aşar.
 
 
-5. Mert: Teknoloji meraklısı ve strateji ustası. Bulduğu araçlar ve geliştirdiği teknolojik çözümlerle grubun yolunu açar.
+5. Emily: Teknoloji meraklısı ve strateji ustası. Bulduğu araçlar ve geliştirdiği teknolojik çözümlerle grubun yolunu açar.
 
 
 
