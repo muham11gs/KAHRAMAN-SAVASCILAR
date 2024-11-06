@@ -1,0 +1,18 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl Indoor_09_PBS
+map_Kd Tiles 09 DIFFUSE.png
+map_Pm Tiles 09 FX.png
+bump Tiles 09 BUMP.png
+disp Tiles 09 FX.png
+Kd 1 1 1
+d 1
+
+newmtl Pipe_1_metal
+map_Kd pipe 1 diff.jpg
+Kd 1 1 1
+d 1
+

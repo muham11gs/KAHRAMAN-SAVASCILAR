@@ -1,0 +1,656 @@
+-target:library
+-out:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll"
+-refout:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll"
+-define:UNITY_2022_3_13
+-define:UNITY_2022_3
+-define:UNITY_2022
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:UNITY_2022_1_OR_NEWER
+-define:UNITY_2022_2_OR_NEWER
+-define:UNITY_2022_3_OR_NEWER
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:UNITY_INCLUDE_TESTS
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_VIRTUALTEXTURING
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_EDITOR_GAME_SERVICES
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_VIDEO
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION
+-define:ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT
+-define:ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE
+-define:PLATFORM_STANDALONE
+-define:TEXTCORE_1_0_OR_NEWER
+-define:PLATFORM_STANDALONE_WIN
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_NVIDIA
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+-define:ENABLE_CLUSTER_SYNC
+-define:ENABLE_CLUSTERINPUT
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
+-define:PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY
+-define:ENABLE_MONO
+-define:NET_STANDARD_2_0
+-define:NET_STANDARD
+-define:NET_STANDARD_2_1
+-define:NETSTANDARD
+-define:NETSTANDARD2_1
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:PHOTON_UNITY_NETWORKING
+-define:PUN_2_0_OR_NEWER
+-define:PUN_2_OR_NEWER
+-define:PUN_2_19_OR_NEWER
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll"
+-r:"Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll"
+-r:"Assets/Photon/PhotonUtilities/Compression/plugins/ByteConverter.dll"
+-r:"Assets/Photon/PhotonUtilities/TransformCrusher/plugins/FloatCrusher.dll"
+-r:"Assets/Photon/PhotonUtilities/TransformCrusher/plugins/HalFloat.dll"
+-r:"Assets/Photon/PhotonUtilities/TransformCrusher/plugins/QuatCompress.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.EditorToolbarModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.PresetsUIModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneViewModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.PropertiesModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+-r:"Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/BitpackersASMDEF.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/EmoCompressUtilsASMDEF.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/HalfFloatASMDEF.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PhotonChat.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PhotonRealtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PhotonUnityNetworking.Demos.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PhotonUnityNetworking.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PhotonUnityNetworking.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PhotonUnityNetworking.Utilities.Culling.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PhotonUnityNetworking.Utilities.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PunDemos.DemoHubEditor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/PunDemos.DemoSlotcarEditor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
+-analyzer:"C:/Program Files/Unity 2022.3.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/BattleRoyalePack/Enemy/Other/Turret.cs"
+"Assets/Photon/InvokeRepeating.cs"
+"Assets/Photon/PhotonChat/Demos/Common/EventSystemSpawner.cs"
+"Assets/Photon/PhotonChat/Demos/Common/OnStartDelete.cs"
+"Assets/Photon/PhotonChat/Demos/Common/TextButtonTransition.cs"
+"Assets/Photon/PhotonChat/Demos/Common/TextToggleIsOnTransition.cs"
+"Assets/Photon/PhotonChat/Demos/DemoChat/AppSettingsExtensions.cs"
+"Assets/Photon/PhotonChat/Demos/DemoChat/ChannelSelector.cs"
+"Assets/Photon/PhotonChat/Demos/DemoChat/ChatAppIdCheckerUI.cs"
+"Assets/Photon/PhotonChat/Demos/DemoChat/ChatGui.cs"
+"Assets/Photon/PhotonChat/Demos/DemoChat/FriendItem.cs"
+"Assets/Photon/PhotonChat/Demos/DemoChat/IgnoreUiRaycastWhenInactive.cs"
+"Assets/Photon/PhotonChat/Demos/DemoChat/NamePickGui.cs"
+"Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs"
+"Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs"
+"Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs"
+"Assets/Photon/PhotonUtilities/Animator/AnimatorControllerTools.cs"
+"Assets/Photon/PhotonUtilities/BitUtilities/BitUtilities.cs"
+"Assets/Photon/PhotonUtilities/CatmullRom/CatmullRomLerp.cs"
+"Assets/Photon/PhotonUtilities/Compression/Enums/SerializationFlags.cs"
+"Assets/Photon/PhotonUtilities/Compression/LiteCrusher/LiteCrusher.cs"
+"Assets/Photon/PhotonUtilities/Compression/LiteCrusher/LiteFloatCrusher.cs"
+"Assets/Photon/PhotonUtilities/Compression/LiteCrusher/LiteIntCrusher.cs"
+"Assets/Photon/PhotonUtilities/Compression/NormCompress/NormCompress.cs"
+"Assets/Photon/PhotonUtilities/EditorTools/DisableFieldAttribute.cs"
+"Assets/Photon/PhotonUtilities/EditorTools/DrawerUtils.cs"
+"Assets/Photon/PhotonUtilities/EditorTools/InspectorUtils.cs"
+"Assets/Photon/PhotonUtilities/EditorTools/SolidTextures.cs"
+"Assets/Photon/PhotonUtilities/EditorTools/VersaMaskAttribute.cs"
+"Assets/Photon/PhotonUtilities/EditorTools/VersaMaskDrawer.cs"
+"Assets/Photon/PhotonUtilities/FastBitMask/FastBitMask128.cs"
+"Assets/Photon/PhotonUtilities/FastBitMask/FastBitMask64.cs"
+"Assets/Photon/PhotonUtilities/PackObject/Attributes/PackObjectAttribute.cs"
+"Assets/Photon/PhotonUtilities/PackObject/Attributes/SyncHalfFloatAttribute.cs"
+"Assets/Photon/PhotonUtilities/PackObject/Attributes/SyncIntAttribute.cs"
+"Assets/Photon/PhotonUtilities/PackObject/Attributes/SyncListAttribute.cs"
+"Assets/Photon/PhotonUtilities/PackObject/Attributes/SyncRangedAttribute.cs"
+"Assets/Photon/PhotonUtilities/PackObject/Attributes/SyncVarAttribute.cs"
+"Assets/Photon/PhotonUtilities/PackObject/Attributes/SyncVarBaseAttribute.cs"
+"Assets/Photon/PhotonUtilities/PackObject/CodeGen/GenerateTypeExtension.cs"
+"Assets/Photon/PhotonUtilities/PackObject/CodeGen/Helpers/TypeHelpers.cs"
+"Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs"
+"Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeInfo.cs"
+"Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeInfoDict.cs"
+"Assets/Photon/PhotonUtilities/PackObject/Enums/PackObjectEnums.cs"
+"Assets/Photon/PhotonUtilities/PackObject/Interfaces/PackFieldInterfaces.cs"
+"Assets/Photon/PhotonUtilities/PackObject/PackObjectDatabase.cs"
+"Assets/Photon/PhotonUtilities/PackObject/PackObjectSettings.cs"
+"Assets/Photon/PhotonUtilities/PackObject/_GeneratedPackExtensions/Pack_TestPackObject.cs"
+"Assets/Photon/PhotonUtilities/SettingsScriptableObject/SettingsScriptableObject.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/ElementCrusher.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Extensions/FloatCrusherExtensions.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/FloatCrushDrawer.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/QuatCrusher.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/RigidbodyCrusher.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/RigidbodyCrusherDrawer.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Structs/CompressedElement.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Structs/CompressedMatrix.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Structs/CompressedMatrixRB.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Structs/CompressedQuat.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Structs/Element.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Structs/IncludedAxisEnum.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Structs/Matrix.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Structs/MatrixRB.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/TransformCrusher.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/TransformCrusherDrawer.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/Utilities/CollectBounds.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/WorldBounds/WorldBounds.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/WorldBounds/WorldBoundsGroup.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/WorldBounds/WorldBoundsSelectAttribute.cs"
+"Assets/Photon/PhotonUtilities/TransformCrusher/WorldBounds/WorldBoundsSettings.cs"
+"Assets/Photon/Simple/Components/Assistants/AnimatorAssists.cs"
+"Assets/Photon/Simple/Components/Assistants/AssistHelpers.cs"
+"Assets/Photon/Simple/Components/Assistants/LauncherAssists.cs"
+"Assets/Photon/Simple/Components/Assistants/MountAssists.cs"
+"Assets/Photon/Simple/Components/Assistants/NetObjectAssists.cs"
+"Assets/Photon/Simple/Components/Assistants/PickupAssists.cs"
+"Assets/Photon/Simple/Components/Assistants/StateAssists.cs"
+"Assets/Photon/Simple/Components/Assistants/SyncTransformAssists.cs"
+"Assets/Photon/Simple/Components/Assistants/TriggerAssists.cs"
+"Assets/Photon/Simple/Components/Assistants/UtilityAssists.cs"
+"Assets/Photon/Simple/Components/AutoOwnerComponentEnable.cs"
+"Assets/Photon/Simple/Components/AutoOwnerGameObjEnable.cs"
+"Assets/Photon/Simple/Components/ContactSystems/ContactManager.cs"
+"Assets/Photon/Simple/Components/ContactSystems/ContactProjectile.cs"
+"Assets/Photon/Simple/Components/ContactSystems/ContactReactorBase.cs"
+"Assets/Photon/Simple/Components/ContactSystems/ContactTrigger.cs"
+"Assets/Photon/Simple/Components/ContactSystems/Interfaces/IConsumable.cs"
+"Assets/Photon/Simple/Components/ContactSystems/Interfaces/IContactReactor.cs"
+"Assets/Photon/Simple/Components/ContactSystems/Interfaces/IContactSystem.cs"
+"Assets/Photon/Simple/Components/ContactSystems/Interfaces/IContactTrigger.cs"
+"Assets/Photon/Simple/Components/ContactSystems/Interfaces/IOnContactEvent.cs"
+"Assets/Photon/Simple/Components/ContactSystems/Interfaces/ISyncContact.cs"
+"Assets/Photon/Simple/Components/ContactSystems/Structs/ContactEvent.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncContact.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncInventory/Assistants/InventorySystemAssists.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncInventory/BasicInventory.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncInventory/Interfaces/IInventoryable.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncInventory/Interfaces/IInventorySystem.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncInventory/InventoryContactReactors.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncInventory/InventoryContactReactorsT.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncInventory/InventoryT.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncShoot/Assistants/WeaponAssists.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncShoot/Interfaces/IProjectile.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncShoot/Interfaces/IProjectileCannon.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncShoot/Projectile.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncShoot/ProjectileHelpers.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncShoot/SyncCannon.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncShoot/SyncContactScan.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncShoot/SyncShootBase.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/Assistants/VitalsAssists.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/Enums/ConsumptionEnums.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/Interfaces/IVitalsContactReactor.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/Interfaces/IVitalsSystem.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/OwnedIVitals.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/SyncVitals.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/UI/VitalsUISrcBase.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/UI/VitalUI.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/UI/VitalUIBase.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/VitalsContactReactor.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/VitalsSystem/DataTypes/VitalData.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/VitalsSystem/DataTypes/VitalDefinition.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/VitalsSystem/DataTypes/VitalNameType.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/VitalsSystem/Interfaces/IOnVitalChange.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/VitalsSystem/Vital.cs"
+"Assets/Photon/Simple/Components/ContactSystems/SyncVitals/VitalsSystem/Vitals.cs"
+"Assets/Photon/Simple/Components/DataMonitor/SimpleDataMonitor.cs"
+"Assets/Photon/Simple/Components/EnableOnNetObjReady.cs"
+"Assets/Photon/Simple/Components/Enums/FrameArrival.cs"
+"Assets/Photon/Simple/Components/Mount/Mount.cs"
+"Assets/Photon/Simple/Components/Mount/MountMaskSelector.cs"
+"Assets/Photon/Simple/Components/Mount/MountSelector.cs"
+"Assets/Photon/Simple/Components/Mount/MountSettings.cs"
+"Assets/Photon/Simple/Components/Mount/MountsManager.cs"
+"Assets/Photon/Simple/Components/Mount/MountThrow.cs"
+"Assets/Photon/Simple/Components/SyncAnimator/Classes/ParameterDefaults.cs"
+"Assets/Photon/Simple/Components/SyncAnimator/Classes/ParameterSettings.cs"
+"Assets/Photon/Simple/Components/SyncAnimator/Enums/ParameterEnums.cs"
+"Assets/Photon/Simple/Components/SyncAnimator/Structs/AnimPassThru.cs"
+"Assets/Photon/Simple/Components/SyncAnimator/SyncAnimator.cs"
+"Assets/Photon/Simple/Components/SyncMover/SyncAdditiveMover.cs"
+"Assets/Photon/Simple/Components/SyncMover/SyncMoverBase.cs"
+"Assets/Photon/Simple/Components/SyncMover/SyncNodeMover.cs"
+"Assets/Photon/Simple/Components/SyncOculus/Assistants/OculusAssist.cs"
+"Assets/Photon/Simple/Components/SyncOculus/AutoDisableOculusObjects.cs"
+"Assets/Photon/Simple/Components/SyncOculus/SimpleOculusAutomation.cs"
+"Assets/Photon/Simple/Components/SyncOculus/SimpleOVRDebug.cs"
+"Assets/Photon/Simple/Components/SyncOculus/SimpleOVRGrabbable.cs"
+"Assets/Photon/Simple/Components/SyncOculus/SimpleOVRGrabber.cs"
+"Assets/Photon/Simple/Components/SyncOculus/SimpleOVRInputSync.cs"
+"Assets/Photon/Simple/Components/SyncState/AutoMountHitscan.cs"
+"Assets/Photon/Simple/Components/SyncState/Enums/ObjState.cs"
+"Assets/Photon/Simple/Components/SyncState/Interfaces/IMountable.cs"
+"Assets/Photon/Simple/Components/SyncState/Interfaces/IOnStateChange.cs"
+"Assets/Photon/Simple/Components/SyncState/Interfaces/IOnTeleport.cs"
+"Assets/Photon/Simple/Components/SyncState/ItemStateLogic.cs"
+"Assets/Photon/Simple/Components/SyncState/MarkerNameType.cs"
+"Assets/Photon/Simple/Components/SyncState/MountSwitcher.cs"
+"Assets/Photon/Simple/Components/SyncState/OnStateChangeKinematic.cs"
+"Assets/Photon/Simple/Components/SyncState/OnStateChangeToggle.cs"
+"Assets/Photon/Simple/Components/SyncState/StateChangeInfo.cs"
+"Assets/Photon/Simple/Components/SyncState/StateReactors.cs"
+"Assets/Photon/Simple/Components/SyncState/StateSyncHelpers.cs"
+"Assets/Photon/Simple/Components/SyncState/SyncOwner.cs"
+"Assets/Photon/Simple/Components/SyncState/SyncSpawnTimer.cs"
+"Assets/Photon/Simple/Components/SyncState/SyncState.cs"
+"Assets/Photon/Simple/Components/SyncState/TeleportMarker.cs"
+"Assets/Photon/Simple/Components/SyncTransform/SyncTransform.cs"
+"Assets/Photon/Simple/Core/Constants/ApplyOrderConstants.cs"
+"Assets/Photon/Simple/Core/Enums/Enums.cs"
+"Assets/Photon/Simple/Core/Extensions/NetObjColliderExt.cs"
+"Assets/Photon/Simple/Core/GenericHitscan/GenericHitscan.cs"
+"Assets/Photon/Simple/Core/GenericHitscan/HitscanComponent.cs"
+"Assets/Photon/Simple/Core/GenericHitscan/HitscanDefinition.cs"
+"Assets/Photon/Simple/Core/Interfaces/IPackObjOnReady.cs"
+"Assets/Photon/Simple/Core/Interfaces/NetObjInterfaces.cs"
+"Assets/Photon/Simple/Core/Interfaces/SyncObjInterfaces.cs"
+"Assets/Photon/Simple/Core/NetComponent.cs"
+"Assets/Photon/Simple/Core/NetMaster/DoubleTime.cs"
+"Assets/Photon/Simple/Core/NetMaster/Interfaces/NetMasterInterfaces.cs"
+"Assets/Photon/Simple/Core/NetMaster/NetMaster.cs"
+"Assets/Photon/Simple/Core/NetMaster/NetMasterCallbacks.cs"
+"Assets/Photon/Simple/Core/NetMaster/NetMasterLate.cs"
+"Assets/Photon/Simple/Core/NetObject.cs"
+"Assets/Photon/Simple/Core/Structs/FrameBase.cs"
+"Assets/Photon/Simple/Core/SyncObject.cs"
+"Assets/Photon/Simple/Core/SyncObjectTFrame.cs"
+"Assets/Photon/Simple/Core/TickEngineSettings.cs"
+"Assets/Photon/Simple/Core/TickManager/ConnectionTickOffsets.cs"
+"Assets/Photon/Simple/Core/TickManager/TickManager.cs"
+"Assets/Photon/Simple/Core/Utilities/GetNestedComponentUtils.cs"
+"Assets/Photon/Simple/Example/Scripts/LowFrameRate.cs"
+"Assets/Photon/Simple/Example/Scripts/OwnerGUI.cs"
+"Assets/Photon/Simple/Example/Scripts/SimulateHealth.cs"
+"Assets/Photon/Simple/Example/Scripts/SuperBasicController.cs"
+"Assets/Photon/Simple/Example/Scripts/TakeOwnership.cs"
+"Assets/Photon/Simple/Example/Scripts/TestPackObject.cs"
+"Assets/Photon/Simple/Example/Scripts/TickMover.cs"
+"Assets/Photon/Simple/Utilities/Callbacks/CallbackUtilities.cs"
+"Assets/Photon/Simple/Utilities/Camera/AutoZoom.cs"
+"Assets/Photon/Simple/Utilities/Collider/CollideType.cs"
+"Assets/Photon/Simple/Utilities/Component/CopyComponent.cs"
+"Assets/Photon/Simple/Utilities/ContactGroups/ContactGroupAssign.cs"
+"Assets/Photon/Simple/Utilities/ContactGroups/ContactGroupMaskSelector.cs"
+"Assets/Photon/Simple/Utilities/ContactGroups/ContactGroupSelector.cs"
+"Assets/Photon/Simple/Utilities/ContactGroups/ContactGroupSettings.cs"
+"Assets/Photon/Simple/Utilities/ContactGroups/ContactGroupValues.cs"
+"Assets/Photon/Simple/Utilities/ContactGroups/Interfaces/IContactGroupMask.cs"
+"Assets/Photon/Simple/Utilities/Debugging/UIConsole.cs"
+"Assets/Photon/Simple/Utilities/Example/BasicController.cs"
+"Assets/Photon/Simple/Utilities/GhostWorld/Enums/Realm.cs"
+"Assets/Photon/Simple/Utilities/GhostWorld/Ghost.cs"
+"Assets/Photon/Simple/Utilities/GhostWorld/GhostCollider.cs"
+"Assets/Photon/Simple/Utilities/GhostWorld/GhostComponent.cs"
+"Assets/Photon/Simple/Utilities/GhostWorld/GhostWorld.cs"
+"Assets/Photon/Simple/Utilities/GhostWorld/Haunted.cs"
+"Assets/Photon/Simple/Utilities/GhostWorld/HauntedStatic.cs"
+"Assets/Photon/Simple/Utilities/GhostWorld/Interfaces/IHauntedComponent.cs"
+"Assets/Photon/Simple/Utilities/GhostWorld/Interfaces/IIncludeInGhost.cs"
+"Assets/Photon/Simple/Utilities/GUITools/CustomMaskEditors/MaskLogic.cs"
+"Assets/Photon/Simple/Utilities/GUITools/EditorUtils.cs"
+"Assets/Photon/Simple/Utilities/GUITools/EnumMaskAttribute.cs"
+"Assets/Photon/Simple/Utilities/GUITools/HeaderEditor.cs"
+"Assets/Photon/Simple/Utilities/GUITools/HideNextXAttribute.cs"
+"Assets/Photon/Simple/Utilities/GUITools/InspectorWidgets.cs"
+"Assets/Photon/Simple/Utilities/GUITools/NameTypeDrawer.cs"
+"Assets/Photon/Simple/Utilities/GUITools/ShowIfInterfaceAttribute.cs"
+"Assets/Photon/Simple/Utilities/GUITools/ValueTypeAttribute.cs"
+"Assets/Photon/Simple/Utilities/Networking/AutoDestroyUnspawned.cs"
+"Assets/Photon/Simple/Utilities/Networking/AutoDestroyWrongNetLib.cs"
+"Assets/Photon/Simple/Utilities/Networking/AutoLayerByAuthority.cs"
+"Assets/Photon/Simple/Utilities/Networking/GenericSpawnPoint.cs"
+"Assets/Photon/Simple/Utilities/Networking/Interfaces/IHasNetworkID.cs"
+"Assets/Photon/Simple/Utilities/Networking/Interfaces/NetworkHitInerfaces.cs"
+"Assets/Photon/Simple/Utilities/Networking/NetAdapters/NetMsgCallbacks.cs"
+"Assets/Photon/Simple/Utilities/Networking/NetAdapters/NetMsgSends.cs"
+"Assets/Photon/Simple/Utilities/Networking/NetworkHit.cs"
+"Assets/Photon/Simple/Utilities/Networking/NetworkHits.cs"
+"Assets/Photon/Simple/Utilities/Pooling/Pool.cs"
+"Assets/Photon/Simple/Utilities/SimpleDocsURLS.cs"
+"Assets/Photon/Simple/Utilities/SmartVars/SmartVars.cs"
+"Assets/Scripts/ChangeSkin.cs"
+"Assets/Scripts/Enemy.cs"
+"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/LedderController.cs"
+"Assets/Scripts/LobbyManager.cs"
+"Assets/Scripts/MenuManager.cs"
+"Assets/Scripts/MiniGun.cs"
+"Assets/Scripts/Pistol.cs"
+"Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/Rifle.cs"
+"Assets/Scripts/TextUpdate.cs"
+"Assets/Scripts/ThirdPersonCamera.cs"
+"Assets/Scripts/WalkEnemy.cs"
+"Assets/Scripts/Weapon.cs"
+"Assets/Stylized Vehicles Pack/Scripts/Coupe.cs"
+"Assets/Stylized Vehicles Pack/Scripts/Jeep.cs"
+"Assets/Stylized Vehicles Pack/Scripts/Sport.cs"
+"Assets/Stylized Vehicles Pack/Scripts/Vehicle.cs"
+"Assets/Stylized Vehicles Pack/Scripts/VehicleChecker.cs"
+-langversion:9.0
+
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+
+/nowarn:0169
+/nowarn:0649
+/nowarn:0282
+/nowarn:1701
+/nowarn:1702
+/utf8output
+/preferreduilang:en-US
+
+
+
+/additionalfile:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
